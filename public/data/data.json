@@ -1,0 +1,48 @@
+
+
+
+
+{
+  "sidebarItems": [
+    {
+      "title": "Dashboard",
+      "href": "/"
+    }
+  ],
+  "sales": [
+    { "name": "January", "sales": 12500 },
+    { "name": "February", "sales": 18200 },
+    { "name": "March", "sales": 15400 },
+    { "name": "April", "sales": 21600 },
+    { "name": "May", "sales": 19800 },
+    { "name": "June", "sales": 24500 },
+    { "name": "July", "sales": 23100 },
+    { "name": "August", "sales": 27800 },
+    { "name": "September", "sales": 26400 },
+    { "name": "October", "sales": 30100 },
+    { "name": "November", "sales": 28600 },
+    { "name": "December", "sales": 34200 }
+  ],
+  "categories": [
+    {
+      "name": "Cloud Services",
+      "value": "25%"
+    },
+    {
+      "name": "Fashion",
+      "value": 3200
+    },
+    {
+      "name": "Home & Kitchen",
+      "value": 2800
+    },
+    {
+      "name": "Sports",
+      "value": 1900
+    },
+    {
+      "name": "Books",
+      "value": 1200
+    }
+  ]
+}
